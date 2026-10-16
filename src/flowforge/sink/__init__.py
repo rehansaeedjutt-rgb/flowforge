@@ -1,0 +1,1 @@
+"""DuckDB warehouse sink."""
